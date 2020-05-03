@@ -127,7 +127,7 @@ One need to install the andriod app from [blynk.io](https://blynk.io/en/getting-
 <table>
   <tr>
     <td>
-      <img src="Images/blynk_app_screen.jpg"| width="250">
+      <img src="images/blynk_app_screen.jpg"| width="250">
     </td>
   </tr>
 </table>
