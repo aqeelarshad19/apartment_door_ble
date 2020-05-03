@@ -54,7 +54,7 @@ To keep anyone from hacking away the BLE lock. The opening of the lock involved 
 <table>
   <tr>
     <td>
-      <img src="Images/8530_schaltungt_.png"| width="500">
+      <img src="images/8530_schaltungt_.png"| width="500">
     </td>
   </tr>
   <tr>
